@@ -50,9 +50,9 @@ class App extends Component {
                 <img src={logo} className="App-logo" alt="logo" />
                 <h1>Image slideshow React tutorial.</h1>
             </section>
-
+              <h4>
             <Card property={property} />
-
+              </h4>
         </div>
       </div>
     );
