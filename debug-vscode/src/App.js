@@ -48,7 +48,7 @@ class App extends Component {
         <div className="page">
             <section>
                 <img src={logo} className="App-logo" alt="logo" />
-                <h1>Source code ( hopefully ) to debug via VSCode.</h1>
+                <h1>Debugging via VSCode.</h1>
             </section>
               <h4>
             <Card property={property} />
